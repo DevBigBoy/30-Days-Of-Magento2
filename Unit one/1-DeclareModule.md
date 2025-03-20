@@ -49,3 +49,8 @@ To create the module.xml file, we first need to create an etc folder under the d
     </module>
 </config>
 ```
+
+
+### Files creation
+### Module registration
+### Module Activation
