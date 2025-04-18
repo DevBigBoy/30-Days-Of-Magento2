@@ -7,3 +7,4 @@
 | 03  |                          [Declarative Schema With Ex](DeclarativeSchemaEx.md)                           |
 | 04  |                                        [EAV Model](EAV-Model.md)                                        |
 | 05  | [EAV Model - Comprehensive List of Attribute Properties](Comprehensive-List-of-Attribute-Properties.md) |
+| 06  |                                      [data patch](data-patch.md)                                       |
