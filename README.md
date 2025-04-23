@@ -14,4 +14,5 @@
 | 06    | [System And Config Xml](./System-Config-Xml/README.md) |
 | 06    |            [Packages](./Packages/README.md)            |
 | 06    |           [Exception](./Exception/README.md)           |
+| 06    |                [Logs](./Logs/README.md)                |
 | 06    |              [RequireJS](./Js/README.md)               |
