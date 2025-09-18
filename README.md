@@ -8,7 +8,7 @@ A comprehensive guide to learning Magento 2 development concepts from beginner t
 | --- | ------ | ----------- |
 | **Week 1: Fundamentals** | | |
 | 01 | [Introduction](./Day-01-Introduction/README.md) | What is Magento 2, Architecture Overview, MVC Pattern |
-| 02 | [Installation & Setup](./README.md) | Installation methods, System requirements, CLI commands |
+| 02 | [Installation & Setup](./Day-02-Installation/README.md) | Installation methods, System requirements, CLI commands |
 | 03 | [Module Creation](./README.md) | Module structure, registration.php, module.xml, Enabling/Disabling modules |
 | 04 | [Dependency Injection](./README.md) | DI concepts, di.xml, Object Manager, Preferences, Virtual Types |
 | 05 | [Routing](./Routing/README.md) | Frontend/Admin routes, routes.xml, Controllers, Action classes |
